@@ -78,4 +78,18 @@ Geen websitebestanden gewijzigd.
 Ik voorspel dat ik een blanke pagina krijg met een simpele font de titel en de header, daaronder een stukje tekst.
 
 </details>
+
+<details>
+<summary>06-11-2026 11:37:00 (UTC+01:00) | Opslaan | Gabriella-spiralen | 1 gewijzigde bestanden (+3/−3)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [57c647896643f9e00f4eb1f3245bce0b77db2a04](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/57c647896643f9e00f4eb1f3245bce0b77db2a04)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 3 | 3 |
+
+</details>
 <!-- arhc-weblab:log:end -->
