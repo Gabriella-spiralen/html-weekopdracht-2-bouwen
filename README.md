@@ -236,4 +236,22 @@ Ik verwacht een link naar zermelo te zien.
 Ik verwacht dat de link nu wel gaat werken.
 
 </details>
+
+<details>
+<summary>06-11-2026 11:59:28 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [6aab923370faf4ccc06dec7056a56f27eb03a7d5](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/6aab923370faf4ccc06dec7056a56f27eb03a7d5)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+Nu gaat de link WEL werken!!!
+
+</details>
 <!-- arhc-weblab:log:end -->
