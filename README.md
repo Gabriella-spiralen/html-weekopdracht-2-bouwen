@@ -661,4 +661,22 @@ Geen websitebestanden gewijzigd.
 Ik verwacht dat mijn paragraaf text grootte groter wordt.
 
 </details>
+
+<details>
+<summary>06-11-2026 14:05:01 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 5
+- **Vorige opgeslagen versie:** [71765d7893c0d5b31c40f8a3ce9132ce43ac7a06](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/71765d7893c0d5b31c40f8a3ce9132ce43ac7a06)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+I verwacht dat de paragraaf tekst groter wordt.
+
+</details>
 <!-- arhc-weblab:log:end -->
