@@ -711,4 +711,22 @@ Paragraaf?
 | index.html | Aangepast | 1 | 1 |
 
 </details>
+
+<details>
+<summary>06-11-2026 14:07:38 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 5
+- **Vorige opgeslagen versie:** [c3927f54cabd27f61df360119f23ac1833dbba2e](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/c3927f54cabd27f61df360119f23ac1833dbba2e)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+Ik verwacht een extra regel voor de contacten en informatie.
+
+</details>
 <!-- arhc-weblab:log:end -->
