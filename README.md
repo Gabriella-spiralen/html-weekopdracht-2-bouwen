@@ -254,4 +254,22 @@ Ik verwacht dat de link nu wel gaat werken.
 Nu gaat de link WEL werken!!!
 
 </details>
+
+<details>
+<summary>06-11-2026 12:00:23 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [ab154ce0db3c85e24011880fdb87192e3957aec2](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/ab154ce0db3c85e24011880fdb87192e3957aec2)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+Een andere link uitproberen, misschien werkt het deze keer wel?
+
+</details>
 <!-- arhc-weblab:log:end -->
