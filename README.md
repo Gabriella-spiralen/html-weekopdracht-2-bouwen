@@ -92,4 +92,20 @@ Ik voorspel dat ik een blanke pagina krijg met een simpele font de titel en de h
 | index.html | Aangepast | 3 | 3 |
 
 </details>
+
+<details>
+<summary>06-11-2026 11:37:33 (UTC+01:00) | Run | Gabriella-spiralen | 0 gewijzigde bestanden (+0/−0)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [71d83ea073d4a2558b29b49cc4fb1ab7f4ca7e1e](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/71d83ea073d4a2558b29b49cc4fb1ab7f4ca7e1e)
+
+Geen websitebestanden gewijzigd.
+
+**Verwachting voor Run**
+
+Ik verwacht dat mijn tekst in zwart en basic font in de kader rechts komt te staan.
+
+</details>
 <!-- arhc-weblab:log:end -->
