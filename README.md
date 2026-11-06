@@ -574,4 +574,25 @@ Geen websitebestanden gewijzigd.
 Meowl wordt kleiner
 
 </details>
+
+<details>
+<summary>06-11-2026 12:27:16 (UTC+01:00) | Run | Gabriella-spiralen | 2 gewijzigde bestanden (+1/−0; 1 binair)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 5
+- **Vorige opgeslagen versie:** [9c4d91f44df80951e156cd6947631a931f7a353b](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/9c4d91f44df80951e156cd6947631a931f7a353b)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 0 |
+| Shrimp.jpg | Nieuw (binair) | — | — |
+
+Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
+
+**Verwachting voor Run**
+
+Shrimpkip
+
+</details>
 <!-- arhc-weblab:log:end -->
