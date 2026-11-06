@@ -679,4 +679,22 @@ Ik verwacht dat mijn paragraaf text grootte groter wordt.
 I verwacht dat de paragraaf tekst groter wordt.
 
 </details>
+
+<details>
+<summary>06-11-2026 14:06:10 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 5
+- **Vorige opgeslagen versie:** [f8aa5fa8c3633a53c11cd118ef74934c1ec7c12e](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/f8aa5fa8c3633a53c11cd118ef74934c1ec7c12e)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+Paragraaf?
+
+</details>
 <!-- arhc-weblab:log:end -->
