@@ -108,4 +108,18 @@ Geen websitebestanden gewijzigd.
 Ik verwacht dat mijn tekst in zwart en basic font in de kader rechts komt te staan.
 
 </details>
+
+<details>
+<summary>06-11-2026 11:38:26 (UTC+01:00) | Opslaan | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [4ac8d9ca9979c0d780164e424e797eaebf104122](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/4ac8d9ca9979c0d780164e424e797eaebf104122)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+</details>
 <!-- arhc-weblab:log:end -->
