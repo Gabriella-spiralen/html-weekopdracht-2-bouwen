@@ -380,4 +380,22 @@ Ik verwacht nu een foto op de website.
 Nu werkt het
 
 </details>
+
+<details>
+<summary>06-11-2026 12:08:50 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+1/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [b9cc0a37471d60da212c91c585cb5a1edfca8f9d](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/b9cc0a37471d60da212c91c585cb5a1edfca8f9d)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 1 | 1 |
+
+**Verwachting voor Run**
+
+NU WEL
+
+</details>
 <!-- arhc-weblab:log:end -->
