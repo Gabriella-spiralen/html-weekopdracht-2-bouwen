@@ -1070,4 +1070,25 @@ verder ingespronge
 Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
 
 </details>
+
+<details>
+<summary>27-11-2026 12:30:50 (UTC+01:00) | Run | Gabriella-spiralen | 2 gewijzigde bestanden (+1/−0; 1 binair)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [e7d4569b14511c4b5b38f08392f532bfcd4bce2e](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/e7d4569b14511c4b5b38f08392f532bfcd4bce2e)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| Film.jpg | Nieuw (binair) | — | — |
+| index.html | Aangepast | 1 | 0 |
+
+Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
+
+**Verwachting voor Run**
+
+Een image op de top van de website
+
+</details>
 <!-- arhc-weblab:log:end -->
