@@ -1091,4 +1091,23 @@ Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
 Een image op de top van de website
 
 </details>
+
+<details>
+<summary>27-11-2026 12:32:06 (UTC+01:00) | Run | Gabriella-spiralen | 2 gewijzigde bestanden (+1/−8)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [7b21ed720bb34373ca8b502c420cbf49b1ddccd3](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/7b21ed720bb34373ca8b502c420cbf49b1ddccd3)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 0 | 5 |
+| style.css | Aangepast | 1 | 3 |
+
+**Verwachting voor Run**
+
+Een top balk met een plaatje.
+
+</details>
 <!-- arhc-weblab:log:end -->
