@@ -1128,4 +1128,22 @@ Een top balk met een plaatje.
 Een plaatje aan de top van de pagina.
 
 </details>
+
+<details>
+<summary>27-11-2026 12:46:07 (UTC+01:00) | Run | Gabriella-spiralen | 1 gewijzigde bestanden (+6/−1)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 4
+- **Vorige opgeslagen versie:** [76bdb77af57d3e811b3d72d3f8a3a3d26d357ffc](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/76bdb77af57d3e811b3d72d3f8a3a3d26d357ffc)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| style.css | Aangepast | 6 | 1 |
+
+**Verwachting voor Run**
+
+Een banneer image
+
+</details>
 <!-- arhc-weblab:log:end -->

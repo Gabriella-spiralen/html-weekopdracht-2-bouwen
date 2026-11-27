@@ -6,6 +6,11 @@
     <title>FutureOfFilm</title>
 </head>
 <body>
-   <img src="Film.jpg" alt="Graphic design van filmstroken" width="1440" height="100">
+   .banner {background image:url("Film.jpg");
+  background-size: 60px;   
+  background-position: center;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  height: 300px;}
 </body>
 </html>
