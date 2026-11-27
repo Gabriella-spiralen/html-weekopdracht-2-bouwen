@@ -1053,4 +1053,21 @@ RAAAAAAAAAH
 verder ingespronge
 
 </details>
+
+<details>
+<summary>27-11-2026 12:09:19 (UTC+01:00) | Opslaan | Gabriella-spiralen | 2 gewijzigde bestanden (2 binair)</summary>
+
+- **Uitgevoerd door:** Gabriella-spiralen
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [ce0d8b6a0e3db33377b3daf2d241ca7e5a1e8520](https://github.com/Gabriella-spiralen/html-weekopdracht-2-bouwen/commit/ce0d8b6a0e3db33377b3daf2d241ca7e5a1e8520)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| Meowl.png | Verwijderd (binair) | — | — |
+| Shrimp.jpg | Verwijderd (binair) | — | — |
+
+Binaire bestanden hebben geen regelverschil; — betekent niet van toepassing.
+
+</details>
 <!-- arhc-weblab:log:end -->
